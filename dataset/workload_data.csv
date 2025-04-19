@@ -1,0 +1,201 @@
+workload_type,traffic_level,budget,recommended_instance
+Batch Job,Low,High,t3.micro
+Database,High,Low,m5.large
+Batch Job,Medium,High,t3.medium
+ML Training,High,Medium,m5.large
+ML Training,Low,High,m5.large
+Web App,High,Low,t3.micro
+Database,Medium,Low,t3.medium
+Database,Medium,Medium,t3.micro
+Web App,High,High,m5.large
+Media Server,Medium,Medium,t3.micro
+Batch Job,Medium,Medium,m5.large
+ML Training,Medium,Low,m5.large
+ML Training,Low,Low,t3.medium
+Database,Low,Low,t3.micro
+Media Server,High,Medium,m5.large
+Database,High,Low,t3.micro
+Media Server,Low,Medium,m5.large
+ML Training,Low,Medium,t3.micro
+Web App,Medium,Medium,t3.medium
+Media Server,High,Low,t3.micro
+Batch Job,Medium,Low,t3.micro
+ML Training,Medium,Low,t3.medium
+Batch Job,Low,High,m5.large
+Web App,Low,High,t3.medium
+Database,High,Medium,t3.micro
+Batch Job,Medium,High,t3.medium
+Media Server,Low,High,t3.micro
+Media Server,Medium,Low,t3.medium
+ML Training,High,Low,t3.micro
+Media Server,High,Medium,t3.micro
+Batch Job,High,High,c5.2xlarge
+Web App,High,Low,t3.medium
+Media Server,Medium,High,m5.large
+Media Server,High,High,c5n.4xlarge
+Media Server,Medium,High,t3.medium
+Database,Low,High,t3.micro
+Web App,Low,High,m5.large
+Database,High,Medium,t3.micro
+Media Server,Low,High,t3.medium
+ML Training,Medium,High,t3.medium
+Media Server,Medium,Medium,m5.large
+Web App,High,High,m5.large
+ML Training,High,Medium,m5.large
+Database,High,High,r5.large
+Media Server,Low,High,m5.large
+Media Server,High,Low,t3.micro
+Media Server,Low,Low,m5.large
+Batch Job,High,Medium,m5.large
+Database,Low,High,m5.large
+ML Training,Medium,Medium,g4dn.xlarge
+Database,Low,Medium,m5.large
+Media Server,Low,Low,t3.medium
+Media Server,Medium,Low,t3.micro
+ML Training,High,Low,m5.large
+Media Server,High,High,c5n.4xlarge
+Database,Low,Low,t3.micro
+Batch Job,Medium,Medium,t3.micro
+Media Server,Medium,Medium,t3.medium
+Web App,Low,Medium,t3.micro
+ML Training,Medium,Medium,g4dn.xlarge
+Database,High,Low,t3.medium
+Media Server,High,Low,t3.micro
+Database,High,Medium,m5.large
+ML Training,Medium,Medium,g4dn.xlarge
+Batch Job,Medium,High,m5.large
+Web App,High,Low,t3.micro
+Web App,Low,Low,t2.micro
+Database,High,Low,t3.micro
+Database,Low,Medium,m5.large
+ML Training,High,High,p3.2xlarge
+Database,Low,Medium,t3.micro
+Database,Low,Medium,m5.large
+Media Server,Low,Medium,t3.medium
+Web App,High,High,m5.large
+Batch Job,Low,High,m5.large
+Media Server,Medium,Low,t3.micro
+ML Training,Low,Medium,t3.medium
+Web App,Low,Low,t2.micro
+Media Server,Low,Medium,t3.medium
+Web App,Medium,Medium,t3.medium
+Media Server,High,Medium,t3.micro
+Web App,High,High,m5.large
+ML Training,Low,Low,t3.medium
+Web App,Low,Low,t2.micro
+Batch Job,Low,Medium,m5.large
+Media Server,High,Low,m5.large
+Web App,High,Low,t3.micro
+Web App,Medium,Medium,t3.medium
+Media Server,Low,High,t3.medium
+ML Training,Medium,High,t3.medium
+Web App,Low,Medium,t3.micro
+Media Server,Low,High,t3.medium
+Batch Job,Low,High,t3.medium
+ML Training,High,Low,t3.medium
+ML Training,Medium,High,t3.micro
+Web App,High,Low,t3.micro
+Web App,High,High,m5.large
+Media Server,Medium,Low,t3.medium
+Database,Low,Medium,t3.micro
+ML Training,High,Medium,t3.medium
+Batch Job,Medium,Medium,m5.large
+Web App,Low,Medium,m5.large
+Web App,Medium,High,t3.micro
+ML Training,High,Low,m5.large
+Web App,High,High,m5.large
+Web App,Medium,High,m5.large
+ML Training,High,Low,t3.medium
+Web App,High,High,m5.large
+ML Training,Low,Low,t3.medium
+Database,Medium,High,t3.micro
+Web App,Low,High,t3.micro
+ML Training,High,Low,t3.micro
+Media Server,High,High,c5n.4xlarge
+Batch Job,Low,High,t3.micro
+Media Server,Medium,Medium,t3.micro
+Media Server,Medium,Medium,t3.medium
+Media Server,Low,High,t3.medium
+Database,High,Low,t3.micro
+Media Server,High,Medium,t3.medium
+Batch Job,Low,Low,t3.small
+Media Server,High,High,c5n.4xlarge
+Media Server,Medium,Low,t3.medium
+Web App,Low,Low,t2.micro
+Database,Medium,Medium,t3.micro
+Media Server,Low,Low,t3.medium
+Database,Low,Low,t3.micro
+Database,Low,Low,t3.micro
+Web App,Medium,Low,t3.micro
+Web App,High,Low,t3.micro
+Web App,Low,High,m5.large
+Batch Job,Medium,Low,t3.medium
+Batch Job,Medium,High,t3.medium
+Batch Job,Low,Medium,t3.micro
+Batch Job,High,High,c5.2xlarge
+ML Training,High,Medium,t3.micro
+Batch Job,Medium,Low,t3.medium
+Media Server,Medium,High,t3.medium
+Batch Job,Medium,Low,t3.medium
+ML Training,High,High,p3.2xlarge
+ML Training,Low,High,t3.medium
+Media Server,Low,Low,t3.medium
+Media Server,High,Medium,t3.medium
+Database,Medium,Medium,t3.medium
+Media Server,Medium,Medium,m5.large
+ML Training,Medium,Low,t3.micro
+ML Training,Low,High,t3.micro
+Media Server,Low,Low,t3.medium
+ML Training,High,Low,t3.micro
+Batch Job,High,Medium,m5.large
+ML Training,High,Low,t3.micro
+Database,High,Low,t3.medium
+Batch Job,Medium,Medium,t3.medium
+ML Training,Medium,Low,m5.large
+ML Training,High,Medium,m5.large
+Web App,High,Low,m5.large
+ML Training,Medium,Medium,g4dn.xlarge
+Web App,Low,Low,t2.micro
+Batch Job,Medium,Low,t3.medium
+Database,Low,High,t3.medium
+Database,Medium,Low,t3.medium
+Media Server,Low,Low,t3.micro
+Media Server,Low,High,m5.large
+Media Server,Low,High,t3.micro
+Web App,High,Medium,t3.micro
+ML Training,Low,Medium,t3.medium
+Web App,Low,Low,t2.micro
+Database,Low,High,t3.medium
+Batch Job,Medium,Low,t3.medium
+Media Server,Medium,High,m5.large
+ML Training,Medium,Low,t3.micro
+Media Server,Medium,High,m5.large
+ML Training,Low,Low,t3.micro
+ML Training,Medium,High,t3.micro
+Database,Low,High,t3.medium
+ML Training,Medium,Low,t3.medium
+Web App,Medium,Medium,t3.medium
+Batch Job,High,Medium,m5.large
+Web App,High,Low,t3.micro
+ML Training,Low,High,m5.large
+Media Server,Low,Low,m5.large
+Database,Medium,High,t3.micro
+Batch Job,Medium,Medium,t3.micro
+ML Training,High,High,p3.2xlarge
+ML Training,Medium,Low,t3.medium
+Media Server,Low,Low,t3.medium
+Media Server,High,Medium,t3.micro
+Database,High,High,r5.large
+Web App,Low,Medium,t3.medium
+ML Training,Medium,Low,t3.micro
+Web App,High,Low,t3.medium
+Web App,Low,High,t3.medium
+Database,Low,High,t3.medium
+Batch Job,Medium,Medium,t3.medium
+Media Server,High,Medium,t3.micro
+Web App,High,High,m5.large
+ML Training,Medium,Low,t3.medium
+Web App,High,High,m5.large
+Batch Job,Medium,Low,t3.medium
+ML Training,Low,Medium,t3.micro
+Database,Low,Low,t3.micro
